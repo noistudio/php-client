@@ -1,5 +1,5 @@
 {
-  "name": "blockcypher/php-client",
+  "name": "noistudio/php-client",
   "description": "BlockCypher's PHP SDK for REST API",
   "keywords": [
     "blockcypher",
